@@ -37,5 +37,6 @@
 <code> <img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code> <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code> <img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code> <img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
 ![GitHub stats]( https://github-readme-stats.vercel.app/api?username=Yanaiara&show_icons=true)
