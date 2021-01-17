@@ -19,7 +19,7 @@
 - Codificar pelo menos 4 horas além do horario de trabalho. 
 - Melhorar meu curriculo com cursos além dos desenvolvidos no ambiente universitario. 
 - Focar nos estudos de inglês.
-- Investir tempo em energia no estudo de testes automatizados.
+- Investir tempo e energia no estudo de testes automatizados.
 
 #### 👩‍💻 Linguagens e ferramentas de programação: 
  - Algumas com mais dominio que as outras, mas sempre estudando pra melhorar o dominio de programação de todas.
