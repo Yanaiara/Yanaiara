@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yanaiara@alunos.utfpr.edu.br)
 
 
-### Meu nome é Yanaiara Oliveira e sou FullStack developer na OmniChat . 🚀
+### Meu nome é Yanaiara Oliveira e sou FullStack developer na FCamara alocada na Dasa . 🚀
 
 
 #### 🌱 Coisas na quais estou trabalhando atualmente: 
