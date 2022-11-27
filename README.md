@@ -15,7 +15,7 @@
 - 
 
 #### 📈 Coisas na qual estou me desafiando:
-- Praticar yoga ao acordar.
+- Praticar de crossfit (treino de força).
 - Codificar pelo menos 4 horas além do horario de trabalho. 
 - Melhorar meu curriculo com cursos além dos desenvolvidos no ambiente universitario. 
 - Focar nos estudos de inglês.
